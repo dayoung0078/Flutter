@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/build" />
+      <excludeFolder url="file://$MODULE_DIR$/b_layout_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/b_layout_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/b_layout_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/c_stateless_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/c_stateless_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/c_stateless_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/d_made_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/d_made_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/d_made_widget/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
